@@ -5,6 +5,13 @@
 List of awesome projects powered by fal.ai
 
 * ![stackwise](https://www.stackwise.ai/favicon.ico) [stackwise.ai](https://www.stackwise.ai/): The open source AI app collection.
+* [perlin-noise-latent-space](https://github.com/marlonbarrios/perlin-noise-latent-space): A pioneering venture into the realm of interactive and generative design.
+* [Unboring App](https://github.com/rookasrudzianskas/ai-unboring-app): Full stack framework for building cross-platform mobile AI apps supporting LLM real-time / streaming text and chat UIs, image services and natural language to images with multiple models, and image processing.
+* [ComfyUI-fal-Connector](https://github.com/badayvedat/ComfyUI-fal-Connector): ComfyUI extension that allows users to execute their ComfyUI workflows directly on [fal.ai](https://www.fal.ai).
+* [LiveDraw for Figma](https://github.com/jordansinger/livedraw-figma): Draw in low-fidelity in realtime in Figma.
+* [AiOBus](https://github.com/Def-Try/aiobus): All-In-One bot designed to fulfill basically all of discord server needs and more - from simple automoderation to powerful server-state dumper and restorer.
+* [draw-together](https://github.com/dabit3/draw-together): PartyKit + Fal + React - Draw Together real-time client.
+* [bauhaus time traveler | duet in latent space](https://github.com/marlonbarrios/bauhaus-time-traveler): An application showcasing a blend of concept, programming, generative AI, sound design, and performance.
 
 ## ![fal](https://fal.ai/favicon.png) fal
 
