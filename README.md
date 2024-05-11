@@ -4,6 +4,8 @@
 # Awesome Projects Powered By fal.ai
 List of awesome projects powered by fal.ai
 
-## ![fal](https://github.com/fal-ai/awesome/assets/5367102/b6be62de-d62b-49c3-aa9a-addfb5cd8990) fal
+* ![stackwise](https://www.stackwise.ai/favicon.ico) [stackwise.ai](https://www.stackwise.ai/): The open source AI app collection.
 
-* ![imgsys](https://github.com/fal-ai/awesome/assets/5367102/7c3e3126-5257-4dd2-a283-08a8bca6ed89) [imgsys](https://imgsys.org/): a generative image model arena (like [lmsys](https://chat.lmsys.org/), but for images).
+## ![fal](https://fal.ai/favicon.png) fal
+
+* ![imgsys](https://imgsys.org/images/favicon.png) [imgsys](https://imgsys.org/): a generative image model arena (like [lmsys](https://chat.lmsys.org/), but for images).
