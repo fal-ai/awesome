@@ -15,7 +15,7 @@ List of awesome projects powered by fal.ai
 
 ## ![fal](https://fal.ai/favicon.png) fal
 
-* ![imgsys](https://imgsys.org/images/favicon.png) [imgsys](https://imgsys.org/): a generative image model arena (like [lmsys](https://chat.lmsys.org/), but for images).
+* ![imgsys](https://imgsys.org/images/favicon.png) [imgsys](https://imgsys.org/): Generative image model arena (like [lmsys](https://chat.lmsys.org/), but for images).
 
 ## Demos
 
