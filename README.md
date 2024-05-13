@@ -5,6 +5,7 @@
 List of awesome projects powered by fal.ai
 
 * ![stackwise](https://www.stackwise.ai/favicon.ico) [stackwise.ai](https://www.stackwise.ai/): The open source AI app collection.
+* [Anifusion](https://anifusion.ai/): Infinite canvas UI for generative AI art.
 * [ComfyUI-fal-Connector](https://github.com/badayvedat/ComfyUI-fal-Connector): ComfyUI extension that allows users to execute their ComfyUI workflows directly on [fal.ai](https://www.fal.ai).
 * [LiveDraw for Figma](https://github.com/jordansinger/livedraw-figma): Draw in low-fidelity in realtime in Figma.
 * [AiOBus](https://github.com/Def-Try/aiobus): All-In-One bot designed to fulfill basically all of discord server needs and more - from simple automoderation to powerful server-state dumper and restorer.
@@ -16,6 +17,7 @@ List of awesome projects powered by fal.ai
 ## ![fal](https://fal.ai/favicon.png) fal
 
 * ![imgsys](https://imgsys.org/images/favicon.png) [imgsys](https://imgsys.org/): Generative image model arena (like [lmsys](https://chat.lmsys.org/), but for images).
+* [Fast SDXL](https://fastsdxl.ai/): Fast Stable Diffusion XL playground.
 
 ## Demos
 
