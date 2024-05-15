@@ -4,7 +4,6 @@
 # Awesome Projects Powered By fal.ai
 List of awesome projects powered by fal.ai
 
-* [Civil War Movie Toy Soldier](https://www.civilwar.movie/): Upload a selfie and a quick line about what you do (for work or play) to create your own CIVIL WAR-inspired toy ‘soldier’.
 * ![stackwise](https://www.stackwise.ai/favicon.ico) [stackwise.ai](https://www.stackwise.ai/): The open source AI app collection.
 * [Anifusion](https://anifusion.ai/): Infinite canvas UI for generative AI art.
 * [ComfyUI-fal-Connector](https://github.com/badayvedat/ComfyUI-fal-Connector): ComfyUI extension that allows users to execute their ComfyUI workflows directly on [fal.ai](https://www.fal.ai).
@@ -19,6 +18,7 @@ List of awesome projects powered by fal.ai
 
 * ![imgsys](https://imgsys.org/images/favicon.png) [imgsys](https://imgsys.org/): Generative image model arena (like [lmsys](https://chat.lmsys.org/), but for images).
 * [Fast SDXL](https://fastsdxl.ai/): Fast Stable Diffusion XL playground.
+* [Civil War Movie Toy Soldier](https://www.civilwar.movie/): Upload a selfie and a quick line about what you do (for work or play) to create your own CIVIL WAR-inspired toy ‘soldier’.
 
 ## Demos
 
