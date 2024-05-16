@@ -12,7 +12,7 @@ List of awesome projects powered by fal.ai
 * [React Native AI](https://github.com/dabit3/react-native-ai): Full stack framework for building cross-platform mobile AI apps.
 * [BlockSuite](https://github.com/toeverything/blocksuite): Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications.
 * [BrowserDiffusion](https://github.com/michaelbzhu/browserdiffusion): Chrome extension that augments your website's images with AI.
-* [DailyAI](https://github.com/daily-co/dailyai): An open source framework for real-time, multi-modal, conversational AI applications.
+* [Pipecat](https://github.com/pipecat-ai/pipecat): An open source framework for real-time, multi-modal, conversational AI applications.
 
 ## ![fal](https://fal.ai/favicon.png) fal
 
