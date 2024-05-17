@@ -4,6 +4,7 @@
 # Awesome Projects Powered By fal.ai
 List of awesome projects powered by fal.ai
 
+* ![say,pi](https://www.saypi.ai/icons/favicon-32x32.png) [Say, Pi](https://www.saypi.ai/): Say, Pi is a voice-to-text extension for Pi, allowing you to chat using only your voice, on the web and in any language. 
 * ![stackwise](https://www.stackwise.ai/favicon.ico) [stackwise.ai](https://www.stackwise.ai/): The open source AI app collection.
 * [Anifusion](https://anifusion.ai/): Infinite canvas UI for generative AI art.
 * [ComfyUI-fal-Connector](https://github.com/badayvedat/ComfyUI-fal-Connector): ComfyUI extension that allows users to execute their ComfyUI workflows directly on [fal.ai](https://www.fal.ai).
