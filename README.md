@@ -8,8 +8,8 @@ List of awesome projects powered by fal.ai
 * ![create.xyz](https://www.create.xyz/favicon.ico) [create.xyz](https://www.create.xyz): Turn your words into sites, components, and tools - built with code.
 * [Playbook XR](https://www.playbookxr.com/): collaborative spatial design tool.
 * ![stackwise](https://www.stackwise.ai/favicon.ico) [stackwise.ai](https://www.stackwise.ai/): The open source AI app collection.
-* (Common Sense Machines)[https://www.csm.ai/]: Turn photos, text or sketch into 3D Worlds.
-* ![magpai](https://magpai.app/favicon.ico) (Magpai)[https://magpai.app/]: Build personalized multimedia templates for your brand or business.
+* [Common Sense Machines](https://www.csm.ai/): Turn photos, text or sketch into 3D Worlds.
+* ![magpai](https://magpai.app/favicon.ico) [Magpai](https://magpai.app/): Build personalized multimedia templates for your brand or business.
 * ![gifshift](https://gifshift.xyz/favicon.ico) [GIF Shift](https://gifshift.xyz/): Create a new version of any GIF.
 * [ML Blocks](https://www.mlblocks.com/): Build Visual AI Workflows in Minutes.
 * [Narrator](https://playnarrator.com/): Infinite AI Roleplaying Adventure Game.
