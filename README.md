@@ -22,7 +22,8 @@ List of awesome projects powered by fal.ai
 * [BlockSuite](https://github.com/toeverything/blocksuite): Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications.
 * [BrowserDiffusion](https://github.com/michaelbzhu/browserdiffusion): Chrome extension that augments your website's images with AI.
 * [Pipecat](https://github.com/pipecat-ai/pipecat): An open source framework for real-time, multi-modal, conversational AI applications.
-
+* [StoriesByAngris.com](https://storiesbyangris.com): Play thought any scenario as an animated RPG game instantly
+  
 ## ![fal](https://fal.ai/favicon.png) fal
 
 * ![imgsys](https://imgsys.org/images/favicon.png) [imgsys](https://imgsys.org/): Generative image model arena (like [lmsys](https://chat.lmsys.org/), but for images).
