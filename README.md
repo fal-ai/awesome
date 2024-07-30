@@ -22,6 +22,7 @@ List of awesome projects powered by fal.ai
 * [BlockSuite](https://github.com/toeverything/blocksuite): Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications.
 * [BrowserDiffusion](https://github.com/michaelbzhu/browserdiffusion): Chrome extension that augments your website's images with AI.
 * [Pipecat](https://github.com/pipecat-ai/pipecat): An open source framework for real-time, multi-modal, conversational AI applications.
+* ![craftful.ai](https://craftful.ai/cf-logo_small.ico) [CraftFul](https://craftful.ai/): Your complete suite of AI Creation tools at your fingertips. Create amazing videos, movies, images, music and speech generation from simple prompts.
 
 ## ![fal](https://fal.ai/favicon.png) fal
 
