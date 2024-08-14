@@ -29,6 +29,7 @@ List of awesome projects powered by fal.ai
 * ![imgsys](https://imgsys.org/images/favicon.png) [imgsys](https://imgsys.org/): Generative image model arena (like [lmsys](https://chat.lmsys.org/), but for images).
 * [Fast SDXL](https://fastsdxl.ai/): Fast Stable Diffusion XL playground.
 * [Civil War Movie Toy Soldier](https://www.civilwar.movie/): Upload a selfie and a quick line about what you do (for work or play) to create your own CIVIL WAR-inspired toy ‘soldier’.
+* [Mindtown](https://mindtown.ai/): Flux based image generation platform.
 
 ## Demos
 
