@@ -1,6 +1,7 @@
 ![4526181d-d91f-4c90-8a43-a57a54d62171](https://github.com/fal-ai/awesome/assets/5367102/9bba2fab-1c69-48d8-bf80-8113abb8e585)
 
 
+
 # Awesome Projects Powered By fal.ai
 List of awesome projects powered by fal.ai
 
@@ -24,6 +25,7 @@ List of awesome projects powered by fal.ai
 * [Pipecat](https://github.com/pipecat-ai/pipecat): An open source framework for real-time, multi-modal, conversational AI applications.
 * ![craftful.ai](https://craftful.ai/cf-logo_small.ico) [CraftFul](https://craftful.ai/): Your complete suite of AI Creation tools at your fingertips. Create amazing videos, movies, images, music and speech generation from simple prompts.
 * [Mindtown](https://mindtown.ai/): Flux based image generation platform.
+* ![deepfish](https://github.com/user-attachments/assets/a366d354-3d2e-4a41-a97d-da4fec4cb0bf) [Deep Fish](https://deepfi.sh/): AI Workflow Management platform.
 
 ## ![fal](https://fal.ai/favicon.png) fal
 
