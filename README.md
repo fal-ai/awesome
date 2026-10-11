@@ -26,6 +26,7 @@ List of awesome projects powered by fal.ai
 * ![craftful.ai](https://craftful.ai/cf-logo_small.ico) [CraftFul](https://craftful.ai/): Your complete suite of AI Creation tools at your fingertips. Create amazing videos, movies, images, music and speech generation from simple prompts.
 * [Mindtown](https://mindtown.ai/): Flux based image generation platform.
 * ![deepfish](https://github.com/user-attachments/assets/a366d354-3d2e-4a41-a97d-da4fec4cb0bf) [Deep Fish](https://deepfi.sh/): AI Workflow Management platform.
+* [Image to Image](https://imagetoimage.dev/): Browser photo editor with conversational edit briefs and original/version comparison, powered by Qwen Image Edit through fal.ai.
 
 ## ![fal](https://fal.ai/favicon.png) fal
 
